@@ -1,0 +1,8 @@
+.env
+.env.ref
+__pycache__/
+*.pyc
+.venv/
+venv/
+graph.png
+.streamlit/secrets.toml
